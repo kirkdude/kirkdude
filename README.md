@@ -55,14 +55,6 @@ security & compliance, and AI-powered tooling.
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-## GitHub Stats
-
-![Kirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirkdude&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
-![Kirk's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=kirkdude&theme=dark&hide_border=true)
-![Kirk's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirkdude&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirkslarsen)
-
-[![Visitor count](https://visitcount.itsvg.in/api?id=kirkdude&icon=0&color=0)](https://visitcount.itsvg.in)
